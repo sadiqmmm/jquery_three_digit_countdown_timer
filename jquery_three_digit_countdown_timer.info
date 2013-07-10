@@ -1,0 +1,5 @@
+name = jquery_three_digit_countdown_timer
+description = This module provides a block with a jquery_three_digit_countdown_timer
+core = 7.x
+dependencies[] = date_api
+
